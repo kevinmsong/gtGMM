@@ -1,0 +1,33 @@
+.
+├── CHANGELOG.md
+├── LICENSE
+├── PACKAGE_STRUCTURE.txt
+├── README.md
+├── REFACTORING_PLAN.md
+├── REFACTORING_SUMMARY.md
+├── docs
+│   ├── Makefile
+│   └── source
+│       ├── api
+│       ├── conf.py
+│       └── index.rst
+├── examples
+│   └── cardiac_regeneration_example.py
+├── gtgmm
+│   ├── __init__.py
+│   ├── data.py
+│   ├── enrichment.py
+│   ├── geo_data.py
+│   ├── gmm.py
+│   ├── gmm_optimizer.py
+│   ├── gse130699_data.py
+│   ├── tda.py
+│   ├── terrain.py
+│   ├── utils.py
+│   └── visualization.py
+├── requirements.txt
+├── setup.py
+├── test_refactored_package.py
+└── tests
+
+6 directories, 24 files
