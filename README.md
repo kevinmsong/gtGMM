@@ -85,10 +85,10 @@ Full documentation, including API references and tutorials, is available in the 
 If you use `gtGMM` in your research, please cite:
 
 ```bibtex
-@software{gtgmm2024,
+@software{gtgmm2025,
   author = {Song, Kevin and Zhang, John and Ye, Lei and Zhang, Jianyi},
   title = {gtGMM: Topological Data Analysis for Gene Expression Networks},
-  year = {2024},
+  year = {2025},
   institution = {Department of Biomedical Engineering, The University of Alabama at Birmingham},
   url = {https://github.com/kevinmsong/gtGMM}
 }
