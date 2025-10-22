@@ -1,4 +1,4 @@
-# gtGMM v2.0: Topological Data Analysis for Gene Networks
+# gtGMM: Topological Data Analysis for Gene Networks
 
 **Unsupervised discovery of functional gene modules through network topology**
 
