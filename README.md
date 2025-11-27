@@ -6,10 +6,6 @@
 
 This major v2.0 release includes a complete refactoring of the original codebase, offering a cleaner API, enhanced performance, and new features for comprehensive, publication-quality analysis.
 
-**Authors:** Kevin Song, John Zhang, Lei Ye MD PhD, Jianyi Zhang MD PhD  
-**Institution:** Department of Biomedical Engineering, The University of Alabama at Birmingham  
-**Contact:** kmsong@uab.edu
-
 ---
 
 ## Key Features in v2.0
@@ -70,30 +66,6 @@ print(tda_p1.get_tda_summary())
 
 print("\nTop 5 Enriched Pathways in P1:")
 print(enrichment_results.head())
-```
-
----
-
-## Documentation
-
-Full documentation, including API references and tutorials, is available in the `docs/` directory.
-
----
-
-## Citing gtGMM
-
-If you use `gtGMM` in your research, please cite:
-
-```bibtex
-@software{gtgmm2025,
-  author = {Song, Kevin and Zhang, John and Ye, Lei and Zhang, Jianyi},
-  title = {gtGMM: Topological Data Analysis for Gene Expression Networks},
-  year = {2025},
-  institution = {Department of Biomedical Engineering, The University of Alabama at Birmingham},
-  url = {https://github.com/kevinmsong/gtGMM}
-}
-```
-
 ---
 
 ## License
